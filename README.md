@@ -2,7 +2,7 @@
 Domain OSINT tool written in python. 
 
 ```
-git clone https://github.com/d3m0n-r00t/webint.git
+git clone https://github.com/d3m0n-r00t/webint
 ```
 
 ## Working
